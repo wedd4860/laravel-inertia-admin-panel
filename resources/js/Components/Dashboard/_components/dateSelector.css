@@ -1,0 +1,39 @@
+.custom__datepicker {
+    .react-datepicker {
+        min-height: 315px;
+    }
+    .react-datepicker__header {
+        min-height: 105px;
+    }
+    .react-datepicker__header__dropdown--select {
+        display: flex;
+        column-gap: 12px;
+        justify-content: center;
+        padding-top: 8px;
+        padding-bottom: 8px;
+    }
+    .react-datepicker__month-dropdown-container {
+        margin: 0;
+    }
+    .react-datepicker__year-dropdown-container {
+        margin: 0;
+    }
+    .react-datepicker__month-select {
+        margin: 0;
+        font-size: 12px;
+        padding: 0 20px 0 4px;
+        background-position: right 2px center;
+    }
+    .react-datepicker__year-select {
+        margin: 0;
+        font-size: 12px;
+        padding: 0 20px 0 4px;
+        background-position: right 2px center;
+    }
+
+    .react-datepicker__input-container {
+        & input {
+            padding-right: 1.5rem;
+        }
+    }
+}

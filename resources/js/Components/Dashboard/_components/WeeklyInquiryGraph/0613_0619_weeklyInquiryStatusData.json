@@ -1,0 +1,51 @@
+[
+    {
+        "date": "2024-06-13",
+        "input": 163,
+        "proc": 94,
+        "remain": 144,
+        "progress": 34
+    },
+    {
+        "date": "2024-06-14",
+        "input": 144,
+        "proc": 174,
+        "remain": 60,
+        "progress": 60
+    },
+    {
+        "date": "2024-06-15",
+        "input": 0,
+        "proc": 0,
+        "remain": 0,
+        "progress": 0
+    },
+    {
+        "date": "2024-06-16",
+        "input": 0,
+        "proc": 0,
+        "remain": 0,
+        "progress": 0
+    },
+    {
+        "date": "2024-06-17",
+        "input": 219,
+        "proc": 131,
+        "remain": 137,
+        "progress": 60
+    },
+    {
+        "date": "2024-06-18",
+        "input": 182,
+        "proc": 134,
+        "remain": 116,
+        "progress": 42
+    },
+    {
+        "date": "2024-06-19",
+        "input": 135,
+        "proc": 14,
+        "remain": 0,
+        "progress": 6
+    }
+]
